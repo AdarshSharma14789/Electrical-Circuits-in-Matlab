@@ -1,9 +1,5 @@
 # ABS Super-Capacitor & Power Electronics Calculator
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://streamlit.io)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org)
-[![MATLAB](https://img.shields.io/badge/MATLAB-Optional-orange)](https://www.mathworks.com/products/matlab.html)
-
 A Streamlit-based web dashboard for calculating super-capacitor parameters in Automotive Brake Systems (ABS) and simulating power electronics circuits using Simulink models. The app supports two main modes for super-capacitor analysis and interactive simulations for circuits like 3-Phase Diode Rectifiers and IGBTs.
 
 **Note**: MATLAB/Simulink functionalities are optional and can be commented out for standalone Python execution. For full simulation features, uncomment and install MATLAB.
@@ -22,14 +18,6 @@ A Streamlit-based web dashboard for calculating super-capacitor parameters in Au
 
 - **Responsive UI**: Wide layout, tooltips, metrics, expanders, and mobile-friendly design with custom CSS.
 - **Real-Time Updates**: Plots and metrics refresh dynamically.
-
-## Screenshots
-
-![Dashboard Overview](screenshots/dashboard.png) <!-- Add actual screenshots if available -->
-
-![Super-Capacitor Mode](screenshots/super_cap.png)
-
-![Simulink Tab](screenshots/simulink_tab.png)
 
 ## Installation
 
